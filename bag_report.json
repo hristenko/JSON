@@ -1,0 +1,23 @@
+{
+
+      "summery"
+      {"priority" : "highest(p0)"
+	            "high(p1)"
+		    "normal(p2)"
+		    "low(p3)"}
+       { "severity" : " bloker"
+	              "critical"
+		      "major"
+		      "minor"}
+
+         "deskription"
+	 "attachments"
+
+
+
+
+
+
+
+
+}
